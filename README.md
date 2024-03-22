@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React,mui,javascript,typescript**
+- 💬 Ask me about **React,mui,javascript,typescript,tailwind**
 
 - 📫 How to reach me **gprahul100@gmail.com**
 
